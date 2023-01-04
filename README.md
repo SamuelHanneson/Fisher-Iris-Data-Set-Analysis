@@ -1,3 +1,7 @@
+Hello, I am Samuel Hanneson, this is a project that was given to me by a friend as a test for my skills.
+
+Before this project I had just completed the intro to python3 course on Codecademy so this was quite the leap to complete but I have done it so here is the real readme.
+
 Fisher Iris Data Set Analysis
 
 This project is an analysis of the Fisher Iris Data Set, which is a classic dataset in the field of machine learning. It consists of 150 records of iris plants, including the sepal length and width, petal length and width, and class (one of three types of iris plants). The data was collected by Edgar Anderson and published in the paper "The use of multiple measurements in taxonomic problems" by Ronald Fisher in 1936.
