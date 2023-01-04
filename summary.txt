@@ -1,0 +1,35 @@
+Column: sepal_length
+Data type: float64
+Number of missing values: 0
+Number of unique values: 35
+Minimum value: 4.3
+Maximum value: 7.9
+
+Column: sepal_width
+Data type: float64
+Number of missing values: 0
+Number of unique values: 23
+Minimum value: 2.0
+Maximum value: 4.4
+
+Column: petal_length
+Data type: float64
+Number of missing values: 0
+Number of unique values: 43
+Minimum value: 1.0
+Maximum value: 6.9
+
+Column: petal_width
+Data type: float64
+Number of missing values: 0
+Number of unique values: 22
+Minimum value: 0.1
+Maximum value: 2.5
+
+Column: class
+Data type: object
+Number of missing values: 0
+Number of unique values: 3
+Minimum value: Iris-setosa
+Maximum value: Iris-virginica
+
